@@ -1,0 +1,1 @@
+To run the file, type "python HelveySean_Assignment_4.py" at the command line. Output will be written to out.txt located within the current directory. Before running the file, make sure path to traningFile, developmentFile are correct at the top of the source code file.
